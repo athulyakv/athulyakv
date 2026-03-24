@@ -6,14 +6,15 @@ Final-year B.Tech student in Artificial Intelligence and Data Science with a str
 🔹 Previous Experience: AI/ML Intern at Codebind Technologies
 🔹 CGPA: 8.23
 
-💼 Technical Expertise
-Programming: Python, SQL, R, Java
+💼 Technical ExpertiseProgramming:
+Python, SQL, R, Java
 Machine Learning & AI: scikit-learn, TensorFlow, CNN, YOLOv5
 Data Analysis: Pandas, NumPy, Exploratory Data Analysis (EDA)
 Visualization & Tools: Power BI (basic), Streamlit, VS Code
 Core Areas: Data Analytics, Predictive Modeling, Computer Vision
 
 🚀 Key Projects
+
 Traffic Sign Detection for Road Safety
 Developed a CNN-based model achieving 97% accuracy using the GTSRB dataset with OpenCV and YOLOv5
 Fraud Detection System
